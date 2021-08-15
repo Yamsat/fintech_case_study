@@ -129,15 +129,15 @@ To introduce a new service to consumers, an easy-to-understand, user-friendly ap
 ## Addendum
 
 References  
-https://www.ig.com/au/news-and-trade-ideas/forex-news/who-is-the-ripple-founder--41717-180122
-https://en.wikipedia.org/wiki/Ripple_Labs
-https://en.wikipedia.org/wiki/Ripple_(payment_protocol)
-https://www.crunchbase.com/organization/ripple-labs/company_financials
-https://www.alliedmarketresearch.com/remittance-market
-https://ripple.com/insights/interledger-beyond-blockchain/
-https://orbilu.uni.lu/bitstream/10993/39731/1/Deep_dive_into_Interledger.pdf
-https://interledger.org/interledger.pdf
-https://www.ey.com/en_gl/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments
-https://ripple.com/customer-case-study/
+https://www.ig.com/au/news-and-trade-ideas/forex-news/who-is-the-ripple-founder--41717-180122  
+https://en.wikipedia.org/wiki/Ripple_Labs  
+https://en.wikipedia.org/wiki/Ripple_(payment_protocol)  
+https://www.crunchbase.com/organization/ripple-labs/company_financials  
+https://www.alliedmarketresearch.com/remittance-market  
+https://ripple.com/insights/interledger-beyond-blockchain/  
+https://orbilu.uni.lu/bitstream/10993/39731/1/Deep_dive_into_Interledger.pdf  
+https://interledger.org/interledger.pdf  
+https://www.ey.com/en_gl/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments  
+https://ripple.com/customer-case-study/  
 https://ripple.com/compliance/
 
