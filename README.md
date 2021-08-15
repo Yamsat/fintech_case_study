@@ -4,8 +4,8 @@
 
 * **Name of company**
 
-Company – Ripple Labs Inc. 
-Service – RippleNet
+Company – Ripple Labs Inc.  
+Project – RippleNet
 
 * **When was the company incorporated?**
 
@@ -47,13 +47,13 @@ RippleNet provides a faster, low-cost alternative to the existing cross-border p
 
 Thanks to advancing technology, we have a variety of means to transfer money such as electronic bank transfer, credit card, paypal and so on. However, remittance can be processed easily only if a sender and a recipient are in the same network. Remittance across networks are not impossible. But it requires an intermediary who bridges the transaction, which is usually very costly and time-consuming. Among other things the intermediary must be someone we can trust to perform its obligation without failure.
 
-### Interledger Protocol (ILP) 
+Interledger Protocol (ILP) 
 
 RippleNet is based on an interledger protocol to address these issues pertinent to cross-network payments. ILP uses ledgers that provide an escrow function. A connector is a party which facilitates remittance across different networks. When a sender transfers funds, they are first paid to ledger-provided escrow. When the connector confirms the funds in escrow, they move funds to ledger-provided escrow on the recipient’s side. Once the recipient acknowledges receipt of the funds in escrow, they are paid upon issuing a receipt. With the receipt the sender ensures that the funds have reached the recipient and the funds in the sender’s escrow are released to the connector.
 
 Validation by ledgers of transactions is performed with cryptographic signatures. Asymmetric cryptography makes each transaction secure without trust between a sender, a recipient and a connector. Ledgers escrow funds until a valid signature (private key) is presented for pre-defined public key.
 
-### On Demand Liquidity (ODL)
+On Demand Liquidity (ODL)
 
 RippleNet provides On Demand Liquidity (ODL) facility in order to smoothly process cross-border payments across different networks.  If we transfer from Japan to USD, market liquidity is not an issue because a large volume of exchange between USD and JPY is occurring twenty-four hours. How about transferring from South Korea to Kenya? The market for KRW/KES is not as liquid as USD/JPY, hence the exchange rate is unfavorable, and it takes more time for the exchange to be settled. For this reason transfers involving exotic currencies are often costly and takes longer to process.
 
@@ -128,8 +128,7 @@ To introduce a new service to consumers, an easy-to-understand, user-friendly ap
 
 ## Addendum
 
-References
-
+References  
 https://www.ig.com/au/news-and-trade-ideas/forex-news/who-is-the-ripple-founder--41717-180122
 https://en.wikipedia.org/wiki/Ripple_Labs
 https://en.wikipedia.org/wiki/Ripple_(payment_protocol)
