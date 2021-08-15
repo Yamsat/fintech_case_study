@@ -21,7 +21,7 @@ Ripple started with an idea of decentralizing a monetary system which would free
 
 * **How is the company funded? How much funding have they received?**
 
-Ripple’s main source of funding has been sales of their own crypto currency, XPR.  It has $1,254.54 million worth of XRP between Q4 2016 and Q2 2020.
+Ripple’s main source of funding has been sales of their own crypto currency, XPR.  It has sold $1,254.54 million worth of XRP between Q4 2016 and Q2 2020.
 
 Ripple has also raised $293.8M in total through 13 rounds of funding which include angel, seed, series A,B and C and secondary market fundings.
 
