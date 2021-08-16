@@ -51,7 +51,7 @@ Interledger Protocol (ILP)
 
 RippleNet is based on an interledger protocol to address these issues pertinent to cross-network payments. ILP uses ledgers that provide an escrow function. A connector is a party which facilitates remittance across different networks. When a sender transfers funds, they are first paid to ledger-provided escrow. When the connector confirms the funds in escrow, they move funds to ledger-provided escrow on the recipient’s side. Once the recipient acknowledges receipt of the funds in escrow, they are paid upon issuing a receipt. With the receipt the sender ensures that the funds have reached the recipient and the funds in the sender’s escrow are released to the connector.
 
-Validation by ledgers of transactions is performed with cryptographic signatures. Asymmetric cryptography makes each transaction secure without trust between a sender, a recipient and a connector. Ledgers escrow funds until a valid signature (private key) is presented for pre-defined public key.
+Validation by ledgers of transactions is performed with cryptographic signatures. Asymmetric cryptography makes each transaction secure without trust between a sender, a recipient and a connector. Ledgers escrow funds until a valid signature is presented for pre-defined public key.
 
 On Demand Liquidity (ODL)
 
